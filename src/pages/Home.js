@@ -1,5 +1,6 @@
 import React from 'react'
 import  { Button }  from "react-bootstrap"
+import { Link } from "react-router-dom"; 
 import 'bootstrap/dist/css/bootstrap.css'
 
 export function Home(){
@@ -8,7 +9,10 @@ export function Home(){
 
    <div>
    <h1>Home</h1>
-   <Button variant="success"> Page Product</Button>
+ 
+
+   <Link to="/Shop"  > 
+        <Button variant="success">Page Product </Button></Link>
    </div>
 
 
