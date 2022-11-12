@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "shoes",
+      "description": "Running Shoes.",
+      "img": "img/200/phone.jpg",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "description": "Apple watch.",
+      "img": "img/200/phone.jpg",
+      "price": 45
+    },
+    {
+      "id": 3,
+      "name": "Gk ",
+      "description": "description",
+      "img": "img/200/game.jpg",
+      "price": 450
+    }
+  ]
+}
